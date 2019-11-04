@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to Bubble Physics</h1>
+      <h2>testing...</h2>
     </div>
   );
 }
