@@ -2,7 +2,7 @@
   "name": "bubble-physics",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://phil-mac.github.io/bubble-physics/",
+  "homepage":"https://bubblephysics.com",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
