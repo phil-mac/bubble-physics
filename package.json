@@ -2,12 +2,15 @@
   "name": "bubble-physics",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://bubblephysics.com",
+  "homepage": "https://bubblephysics.com",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "three": "^0.110.0",
+    "three-js": "^79.0.0",
+    "three-orbitcontrols": "^2.110.1"
   },
   "scripts": {
     "start": "react-scripts start",
